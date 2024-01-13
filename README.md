@@ -12,14 +12,14 @@
 
 ## 🧐 About <a name="about"></a>
 
-Instalar o Kafka e realizar primeiro envio e recebimento de dados no formato streaming, a partir do Postregres.
+Instalar o Kafka e realizar primeiro envio e recebimento de dados no formato streaming a partir do Postgres.
 
 ## 🚀 Features <a name="features"></a>
+
 - Extração de dados em streaming com o Kafka
 
 
 ## ⚠️ Prerequisites <a name="prerequisites"></a>
-
 
 - Docker
 
@@ -47,8 +47,8 @@ https://www.youtube.com/watch?v=QCwjfW6IR4c
 - Docker
 
 ## 📚 References <a name="references"></a>
-### Tutorial Kafka Full Cycle:
 
+### Tutorial Kafka Full Cycle:
 https://www.youtube.com/watch?v=o5yviW6QSrE&list=PL5aY_NrL1rjt_AZxj11kQjiTNLGg4ZaZA
 
 ### Github BI Insights:
