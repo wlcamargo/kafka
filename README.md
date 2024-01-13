@@ -9,15 +9,6 @@
     <br> 
 </p>
 
-## 📝 Index
-
-- [About](#about)
-- [Prerequisites](#prerequisites)
-- [Usage](#usage)
-- [Authors](#authors)
-- [Built With](#built-with)
-- [References](#references)
-
 
 ## 🧐 About <a name="about"></a>
 
@@ -40,8 +31,11 @@ Instalar o Kafka e realizar primeiro envio e recebimento de dados no formato str
 ## 👨🏽‍🏫 Usage <a name="usage"></a>
 
 ### Vídeo explicativo
+https://www.youtube.com/watch?v=QCwjfW6IR4c
 
+### Instalar o Kafka no Docker
 
+    docker compose up -d
 
 
 ## ✍️ Authors <a name="authors"></a>
@@ -53,7 +47,14 @@ Instalar o Kafka e realizar primeiro envio e recebimento de dados no formato str
 - Docker
 
 ## 📚 References <a name="references"></a>
+### Tutorial Kafka Full Cycle:
 
+https://www.youtube.com/watch?v=o5yviW6QSrE&list=PL5aY_NrL1rjt_AZxj11kQjiTNLGg4ZaZA
+
+### Github BI Insights:
 https://github.com/hnawaz007/pythondataanalysis/tree/main/kafka
 
+
+### Vídeo BI Insights:
 https://www.youtube.com/watch?v=xh9rVSqNHMI
+
